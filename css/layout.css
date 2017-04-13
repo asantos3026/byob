@@ -1,3 +1,5 @@
+/*Building Bootstrap is awesome!*/
+
 header {
   width: 100%;
   background-color: #84c5e4;
@@ -9,7 +11,8 @@ header {
 }
 
 .shrink h1 {
-    font-size: 15px;
+    font-size: 20px;
+    color: red;
 }
 
 .main-header {
@@ -34,7 +37,7 @@ a[name] {
   background-color: aquamarine;
   border-radius: 4px;
   padding: 15px;
-  border: 1px solid #e3e3e3;
+  border: 1px solid grey;
   margin-bottom: 10px;
 }
 
@@ -56,6 +59,7 @@ body {
 }
 
 .wrap {
+  /*padding-left: 250px;*/
   width: 70%;
   margin: 150px auto;
 }
